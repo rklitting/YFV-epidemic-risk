@@ -1,0 +1,11 @@
+Genotypes details:
+
+AGO: Angola
+EA: East Africa
+ECA: East Central Africa
+WA: West Africa (== West Africa I)
+WCA: West Central Africa (== West Africa II)
+SAI: South America I
+SAII: South America II
+
+J'ai basé cette nomenclature sur les papier de Beck et de Stock de 2013 (https://pubmed.ncbi.nlm.nih.gov/23516640/, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571399/) pour l'Afrique, et sur celui de Mir de 2017 (https://www.nature.com/articles/s41598-017-07873-7) pour l'Amérique du Sud.
